@@ -1,10 +1,10 @@
 import { addParaElement, addImageElement } from "./restaurant";
 
 const contentInfo = {
-  srcLink1: "./dist/assests/contact-img.jpg",
-  srcLink2: "./dist/assests/map-img.jpg",
-  srcLink3: "./dist/assests/email-img.png",
-  srcLink4: "./dist/assests/phone-img.png",
+  srcLink1: "../dist/assests/contact-img.jpg",
+  srcLink2: "../dist/assests/map-img.jpg",
+  srcLink3: "../dist/assests/email-img.png",
+  srcLink4: "../dist/assests/phone-img.png",
   paraText1: "1. Location ( Kanpur )",
   paraText2: "2. Email ( aatiqafzal1443@gmail.com)",
   paraText3: "3. Phone ( +91 9140678627 )",

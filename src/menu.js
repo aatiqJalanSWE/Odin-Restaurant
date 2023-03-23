@@ -1,10 +1,10 @@
 import { addParaElement, addImageElement } from "./restaurant";
 
 const menuInfo = {
-  srcLink1: "./dist/assests/menu-img.jpg",
-  srcLink2: "./dist/assests/pizza-img.jpg",
-  srcLink3: "./dist/assests/burger-img.jpg",
-  srcLink4: "./dist/assests/pasta-img.jpg",
+  srcLink1: "../dist/assests/menu-img.jpg",
+  srcLink2: "../dist/assests/pizza-img.jpg",
+  srcLink3: "../dist/assests/burger-img.jpg",
+  srcLink4: "../dist/assests/pasta-img.jpg",
   paraText1: "1. Pizza",
   paraText2: "2. Burger",
   paraText3: "3. Pasta",
