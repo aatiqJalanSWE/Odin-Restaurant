@@ -1,6 +1,6 @@
-import { loadInitialPage } from "./pageLoad";
+import { loadInitialPage } from "./contact";
 import { loadMenuPage } from "./menu";
-import { loadContactPage } from "./contact";
+import { loadContactPage } from "./pageLoad";
 
 loadInitialPage();
 
